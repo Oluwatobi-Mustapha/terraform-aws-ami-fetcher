@@ -25,3 +25,9 @@ terraform apply
 ![7615EF31-E304-4AA5-B95F-1CF8C299B287_1_201_a](https://github.com/user-attachments/assets/2b9d3cf6-c3bc-4fc5-b23a-1de781aa61c1)
 
 ![69E1D48C-9736-4BDB-AED1-37A9B118D489_1_201_a](https://github.com/user-attachments/assets/2528de0f-831e-4f36-95fe-c8b50551aa5e)
+
+
+# Cleanup
+```bash
+terraform destroy -auto-approve
+```
