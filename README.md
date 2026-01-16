@@ -17,7 +17,7 @@ terraform apply
 
 - Terraform fetched the latest Amazon Linux 2023 ARM64 image.
 
-- Created a t4g.micro EC2 instance successfully in us-east-1.
+- Created t4g.micro EC2 instance successfully in us-east-1.
 
 - Verified on the AWS console (see screenshots below).
 
